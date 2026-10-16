@@ -1,1 +1,1 @@
-This is a partner recipe book
+ Add more info about recipe
